@@ -1,0 +1,15 @@
+/Users/mayankparihar/dotnet/XuntiTestPractice/TestingBasic/ToTestApp/bin/Debug/net7.0/ToTestApp
+/Users/mayankparihar/dotnet/XuntiTestPractice/TestingBasic/ToTestApp/bin/Debug/net7.0/ToTestApp.deps.json
+/Users/mayankparihar/dotnet/XuntiTestPractice/TestingBasic/ToTestApp/bin/Debug/net7.0/ToTestApp.runtimeconfig.json
+/Users/mayankparihar/dotnet/XuntiTestPractice/TestingBasic/ToTestApp/bin/Debug/net7.0/ToTestApp.dll
+/Users/mayankparihar/dotnet/XuntiTestPractice/TestingBasic/ToTestApp/bin/Debug/net7.0/ToTestApp.pdb
+/Users/mayankparihar/dotnet/XuntiTestPractice/TestingBasic/ToTestApp/obj/Debug/net7.0/ToTestApp.csproj.AssemblyReference.cache
+/Users/mayankparihar/dotnet/XuntiTestPractice/TestingBasic/ToTestApp/obj/Debug/net7.0/ToTestApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mayankparihar/dotnet/XuntiTestPractice/TestingBasic/ToTestApp/obj/Debug/net7.0/ToTestApp.AssemblyInfoInputs.cache
+/Users/mayankparihar/dotnet/XuntiTestPractice/TestingBasic/ToTestApp/obj/Debug/net7.0/ToTestApp.AssemblyInfo.cs
+/Users/mayankparihar/dotnet/XuntiTestPractice/TestingBasic/ToTestApp/obj/Debug/net7.0/ToTestApp.csproj.CoreCompileInputs.cache
+/Users/mayankparihar/dotnet/XuntiTestPractice/TestingBasic/ToTestApp/obj/Debug/net7.0/ToTestApp.dll
+/Users/mayankparihar/dotnet/XuntiTestPractice/TestingBasic/ToTestApp/obj/Debug/net7.0/refint/ToTestApp.dll
+/Users/mayankparihar/dotnet/XuntiTestPractice/TestingBasic/ToTestApp/obj/Debug/net7.0/ToTestApp.pdb
+/Users/mayankparihar/dotnet/XuntiTestPractice/TestingBasic/ToTestApp/obj/Debug/net7.0/ToTestApp.genruntimeconfig.cache
+/Users/mayankparihar/dotnet/XuntiTestPractice/TestingBasic/ToTestApp/obj/Debug/net7.0/ref/ToTestApp.dll
